@@ -4,6 +4,7 @@
 // @version      2025.07.30
 // @description  Guarda contactos desde la vista de info de contacto como vCard (.vcf). Importar/exportar desde el menú Tampermonkey. Vista flotante editable, posición recordada, y resaltado en lista de chats.
 // @author       wernser412
+// @downloadURL  https://github.com/wernser412/WhatsApp-Web_Exportar-vCard/raw/refs/heads/main/WhatsApp%20Web%20-%20Exportar%20vCard.user.js
 // @icon         https://web.whatsapp.com/favicon/1x/favicon/
 // @match        https://web.whatsapp.com/
 // @grant        GM_getValue
