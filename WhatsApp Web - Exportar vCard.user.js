@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         WhatsApp Web - Exportar vCard
 // @namespace    http://tampermonkey.net/
-// @version      2025.07.30
+// @version      2025.09.08
 // @description  Guarda contactos desde la vista de info de contacto como vCard (.vcf). Importar/exportar desde el menú Tampermonkey. Vista flotante editable, posición recordada, y resaltado en lista de chats.
 // @author       wernser412
 // @downloadURL  https://github.com/wernser412/WhatsApp-Web_Exportar-vCard/raw/refs/heads/main/WhatsApp%20Web%20-%20Exportar%20vCard.user.js
-// @icon         https://web.whatsapp.com/favicon/1x/favicon/
+// @icon         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACaUlEQVR42n1R60uTURx+P0qwwgtFf0B/QIR9CqXpLIroS58qim5gUF8aZRRdpAvSt0SlonVdtiwLBoGZzltYYRcdkqSzac02N191a5f3ds7T75w1aNr6wcM57+85z3PO83uVpQWgPKKrz+Jmco6Dw+LMSlip2V9W6r7glEIFoCisq+1CpBqLeBzpxOXgXdQH78Ad7kCMeoLLMN0NYEWemIiimLEwqnETl0i0emAbbH1VeSgb2IqzkzehMYNnmPExzySiqW06N7DTXwdbjz2LXiFcju0jThjM5BTNk7t9PecM5yZvSWHFu1q0TLej1OcoaOKcaATnHOCoUFQz3hbVF+UTbd12jCWCEMz+4Xph+E+D4v4aRI15E+CtSsJKzj2KvMqSXZuRNNMQ1Rx8WshAwjXjBcWIKIxzXPzmyhI+O1p/dMhpb+jf91+D04EWkJQrIsuZyRuiKQXr+nYhkplDT+wDyrpqpOlKXxVWEf4ebl2gGZxxKCkrE7v386Vs5kwc748hYSQxvPAV9sGjcE15EUiGcNh/RfC5CBYTEXTLcIc1lZf0b5FELkrl21qMJ6bBGQMdlKs/PiE4OcSYvpCm1z8UM9gkDpwKNAlx3ktKuh3Y8+k8noRewxPqxMbBA7LvHG8kPw7SViqUYw2jryNjDcuH1fsnt09C7qs/H4dm6QZpniuiyGpvxtLNtW92oHzoIA59uYpSGWf5vz8xfp1TZIM0I2RQLA1o80A14vr39KxKewhEtXnt2pSb7R69gJMTTbg949Wpl8zy/AWtJUKbM5ghDBEaCA5CNcFjMSsmBdkhRmltZ4wyL6nf3fyenkJsytIAAAAASUVORK5CYII=
 // @match        https://web.whatsapp.com/
 // @grant        GM_getValue
 // @grant        GM_setValue
