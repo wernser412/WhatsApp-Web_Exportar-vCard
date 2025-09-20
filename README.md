@@ -1,6 +1,6 @@
 # WhatsApp Web - vCard Mejorado
 
-**Última Actualización:** 08 de septiembre de 2025
+**Última Actualización:** 19 de septiembre de 2025
 
 ![Tampermonkey](https://github.com/wernser412/WhatsApp-Web_Exportar-vCard/blob/main/GUI.png?raw=true)
 
